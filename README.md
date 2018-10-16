@@ -4,8 +4,6 @@
 
 Classroom Management System.
 
-testtest
-
 ## java110-project (tag: v4.1)
 
 - 서블릿의 loadOnStartup 배치 속성을 이용하여 공용 자원을 준비하기.
